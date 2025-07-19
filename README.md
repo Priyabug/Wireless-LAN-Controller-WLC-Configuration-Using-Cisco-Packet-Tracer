@@ -1,4 +1,4 @@
-# 🌐 Configuring a Cisco Wireless LAN Controller (WLC) in Packet Tracer
+# 🌐 Configuring a Cisco Wireless LAN Controller (WLC) in Cisco Packet Tracer
 
 Setting up a **Cisco Wireless LAN Controller (WLC)** in *Packet Tracer* provides hands-on experience in building and managing enterprise-level wireless networks. This process brings together structured configuration, secure access, and centralized control — all within a simulated environment.
 
