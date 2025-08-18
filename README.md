@@ -41,6 +41,9 @@ Use the WLC’s intuitive **graphical user interface** to:
 
 Configuring a **Wireless LAN Controller (WLC)** in a network simulation involves a series of steps to ensure seamless connectivity, centralized management, and secure wireless access.
 
+<img width="1693" height="709" alt="image" src="https://github.com/user-attachments/assets/25e2e962-adfa-41e1-b272-7f82425889ec" />
+
+
 ---
 
 ## 🔧 Key Configuration Steps
